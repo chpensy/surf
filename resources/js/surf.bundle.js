@@ -10414,7 +10414,7 @@
                   a.createElement(
                     x.nv,
                     null,
-                    "Parker Young, Scott Porterfield, Patrick Evan Little, Connor Smith, William Devereux, Adina Shanholtz"
+                    "This is a port of the original game that can run on any browser. I (chpensy) only host this project from jackbuehner because the original site is dead. Here are the real credits now : Parker Young, Scott Porterfield, Patrick Evan Little, Connor Smith, William Devereux, Adina Shanholtz"
                   ),
                   a.createElement(
                     S.X6,
