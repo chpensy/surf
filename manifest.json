@@ -1,6 +1,6 @@
 {
     "short_name": "SURF",
-    "name": "Microsoft Edge SURF",
+    "name": "MS Edge SURF",
     "icons": [
         {
             "src": "resources/icons/android-icon-36x36.png",
@@ -44,8 +44,8 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/",
-    "version": "1.1",
+    "start_url": "/surf",
+    "version": "1.2",
     "background_color": "#243A5E",
     "display": "fullscreen",
     "scope": "/",
